@@ -1,0 +1,12 @@
+{
+  "start_message": "Hello, {first_name}! 👋\nYou have been saved.",
+  "language_selected": "Language changed to English ✅",
+  "language_command": "Select language 🌍",
+  "ru": "Русский 🇷🇺",
+  "en": "English 🇺🇸",
+  "uz": "O'zbek 🇺🇿",
+  "broadcast_prompt": "📢 Type a message or forward one:",
+  "broadcast_sent": "✅ Message sent to {count} users!",
+  "admin_only": "⛔ You are not an admin.",
+  "error": "❌ An error occurred. Please try again."
+}

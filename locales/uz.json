@@ -1,0 +1,12 @@
+{
+  "start_message": "Salom, {first_name}! 👋\nSiz saqlandi.",
+  "language_selected": "Til o'zbek tiliga o'zgartirildi ✅",
+  "language_command": "Til tanla 🌍",
+  "ru": "Русский 🇷🇺",
+  "en": "English 🇺🇸",
+  "uz": "O'zbek 🇺🇿",
+  "broadcast_prompt": "📢 Xabarni yozing yoki forward qiling:",
+  "broadcast_sent": "✅ {count} ta userga xabar yuborildi!",
+  "admin_only": "⛔ Siz admin emassiz.",
+  "error": "❌ Xato yuz berdi. Qaytadan urinib ko'ring."
+}

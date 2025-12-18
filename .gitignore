@@ -1,1 +1,10 @@
+**/__pycache__
+
+.idea
+.vscode
+
 venv
+
+contest_bot_db.db
+
+.env
